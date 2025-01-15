@@ -3,7 +3,7 @@ NoteTaker is a python script that convert highlighted PDFs to markdown notes. Gi
 
 You can also add annotations on the PDF and NoteTaker will add them to the md files. It is best used with obsidian where you give it your obsidian vault as the target directory. 
 
-Note taker will recreate your folder three in your vault for better organisation.
+NoteTaker will recreate your folder three in your vault for better organisation.
 
 ## Example
 
